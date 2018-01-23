@@ -1,0 +1,2 @@
+# Trad
+Mi primer traductor
